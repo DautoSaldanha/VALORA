@@ -1,5 +1,6 @@
 # VALORA
-Landing page institucional da Valora — soluções tributárias estratégicas. Desenvolvido pela Cerrado Data.
+
+Landing page institucional da Valora — soluções tributárias estratégicas. Desenvolvido pela Cerrado Data. Hospedado na KingHost.
 
 # Valora — Soluções tributárias estratégicas
 
@@ -8,6 +9,7 @@ Landing page institucional desenvolvida para a **Valora**, empresa especializada
 Este projeto foi produzido pela **Cerrado Data** e está sendo utilizado neste repositório como uma apresentação de portfólio, demonstrando o trabalho de criação de interfaces institucionais modernas, responsivas e orientadas à conversão.
 
 🌐 **Aplicação em produção:** [valorastb.com.br](http://valorastb.com.br/)
+🏗️ **Hospedagem:** KingHost
 
 ## Sobre o projeto
 
@@ -66,19 +68,15 @@ O site apresenta a Valora de forma clara, moderna e sofisticada, com foco na vis
 
 O projeto é uma aplicação estática e não possui dependências obrigatórias ou processo de build.
 
-Abra o arquivo `index.html` no navegador ou inicie um servidor local:
-
-```bash
-python3 -m http.server 8000
-```
-
-Depois, acesse <http://localhost:8000>.
-
 ## Contatos da Valora
 
 - WhatsApp: [+55 61 99831-8421](https://wa.me/5561998318421)
 - Instagram: [@valora.stb](https://www.instagram.com/valora.stb/)
 - E-mail: [valorasolucoestributarias@gmail.com](mailto:valorasolucoestributarias@gmail.com)
+
+## Hospedagem
+
+Aplicação hospedada na **KingHost**.
 
 ## Autoria
 
