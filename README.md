@@ -1,4 +1,8 @@
-# VALORA
+# Valora — Soluções tributárias estratégicas
+
+<p align="center">
+  <img src="./cerradodata.png" alt="Cerrado Data" width="700">
+</p>
 
 Landing page institucional da Valora — soluções tributárias estratégicas. Desenvolvido pela Cerrado Data. Hospedado na KingHost.
 
